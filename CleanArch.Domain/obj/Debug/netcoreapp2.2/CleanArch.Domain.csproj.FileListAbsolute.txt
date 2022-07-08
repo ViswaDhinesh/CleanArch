@@ -5,3 +5,4 @@ C:\Users\dhine\source\repos\CleanArch\CleanArch.Domain\obj\Debug\netcoreapp2.2\C
 C:\Users\dhine\source\repos\CleanArch\CleanArch.Domain\obj\Debug\netcoreapp2.2\CleanArch.Domain.AssemblyInfo.cs
 C:\Users\dhine\source\repos\CleanArch\CleanArch.Domain\obj\Debug\netcoreapp2.2\CleanArch.Domain.dll
 C:\Users\dhine\source\repos\CleanArch\CleanArch.Domain\obj\Debug\netcoreapp2.2\CleanArch.Domain.pdb
+C:\Users\dhine\source\repos\CleanArch\CleanArch.Domain\obj\Debug\netcoreapp2.2\CleanArch.Domain.csprojAssemblyReference.cache
