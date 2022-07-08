@@ -1,0 +1,8 @@
+C:\Users\dhine\source\repos\CleanArch\CleanArch.Domain\bin\Debug\netcoreapp3.0\CleanArch.Domain.deps.json
+C:\Users\dhine\source\repos\CleanArch\CleanArch.Domain\bin\Debug\netcoreapp3.0\CleanArch.Domain.dll
+C:\Users\dhine\source\repos\CleanArch\CleanArch.Domain\bin\Debug\netcoreapp3.0\CleanArch.Domain.pdb
+C:\Users\dhine\source\repos\CleanArch\CleanArch.Domain\obj\Debug\netcoreapp3.0\CleanArch.Domain.csprojAssemblyReference.cache
+C:\Users\dhine\source\repos\CleanArch\CleanArch.Domain\obj\Debug\netcoreapp3.0\CleanArch.Domain.AssemblyInfoInputs.cache
+C:\Users\dhine\source\repos\CleanArch\CleanArch.Domain\obj\Debug\netcoreapp3.0\CleanArch.Domain.AssemblyInfo.cs
+C:\Users\dhine\source\repos\CleanArch\CleanArch.Domain\obj\Debug\netcoreapp3.0\CleanArch.Domain.dll
+C:\Users\dhine\source\repos\CleanArch\CleanArch.Domain\obj\Debug\netcoreapp3.0\CleanArch.Domain.pdb

@@ -31,3 +31,4 @@ C:\Users\dhine\source\repos\CleanArch\CleanArch.Mvc\obj\Debug\netcoreapp2.2\Clea
 C:\Users\dhine\source\repos\CleanArch\CleanArch.Mvc\obj\Debug\netcoreapp2.2\CleanArch.Mvc.dll
 C:\Users\dhine\source\repos\CleanArch\CleanArch.Mvc\obj\Debug\netcoreapp2.2\CleanArch.Mvc.pdb
 C:\Users\dhine\source\repos\CleanArch\CleanArch.Mvc\obj\Debug\netcoreapp2.2\CleanArch.Mvc.csproj.CopyComplete
+C:\Users\dhine\source\repos\CleanArch\CleanArch.Mvc\obj\Debug\netcoreapp2.2\CleanArch.Mvc.csprojAssemblyReference.cache
