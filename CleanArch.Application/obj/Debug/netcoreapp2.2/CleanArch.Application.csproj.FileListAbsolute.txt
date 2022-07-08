@@ -1,0 +1,7 @@
+C:\Users\dhine\source\repos\CleanArch\CleanArch.Application\bin\Debug\netcoreapp2.2\CleanArch.Application.deps.json
+C:\Users\dhine\source\repos\CleanArch\CleanArch.Application\bin\Debug\netcoreapp2.2\CleanArch.Application.dll
+C:\Users\dhine\source\repos\CleanArch\CleanArch.Application\bin\Debug\netcoreapp2.2\CleanArch.Application.pdb
+C:\Users\dhine\source\repos\CleanArch\CleanArch.Application\obj\Debug\netcoreapp2.2\CleanArch.Application.AssemblyInfoInputs.cache
+C:\Users\dhine\source\repos\CleanArch\CleanArch.Application\obj\Debug\netcoreapp2.2\CleanArch.Application.AssemblyInfo.cs
+C:\Users\dhine\source\repos\CleanArch\CleanArch.Application\obj\Debug\netcoreapp2.2\CleanArch.Application.dll
+C:\Users\dhine\source\repos\CleanArch\CleanArch.Application\obj\Debug\netcoreapp2.2\CleanArch.Application.pdb
