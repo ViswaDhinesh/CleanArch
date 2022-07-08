@@ -11,3 +11,5 @@ C:\Users\dhine\source\repos\CleanArch\CleanArch.Infra.Data\bin\Debug\netcoreapp2
 C:\Users\dhine\source\repos\CleanArch\CleanArch.Infra.Data\bin\Debug\netcoreapp2.2\CleanArch.Domain.dll
 C:\Users\dhine\source\repos\CleanArch\CleanArch.Infra.Data\bin\Debug\netcoreapp2.2\CleanArch.Domain.pdb
 C:\Users\dhine\source\repos\CleanArch\CleanArch.Infra.Data\obj\Debug\netcoreapp2.2\CleanArch.Infra.Data.csproj.CopyComplete
+C:\Users\dhine\source\repos\CleanArch\CleanArch.Infra.Data\bin\Debug\netcoreapp2.2\CleanArch.Application.dll
+C:\Users\dhine\source\repos\CleanArch\CleanArch.Infra.Data\bin\Debug\netcoreapp2.2\CleanArch.Application.pdb

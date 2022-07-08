@@ -944,6 +944,19 @@
           "ref/netstandard1.3/System.Threading.Tasks.dll": {}
         }
       },
+      "CleanArch.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.2",
+        "dependencies": {
+          "CleanArch.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CleanArch.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CleanArch.Application.dll": {}
+        }
+      },
       "CleanArch.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.2",
@@ -3619,6 +3632,11 @@
         "system.threading.tasks.nuspec"
       ]
     },
+    "CleanArch.Application/1.0.0": {
+      "type": "project",
+      "path": "../CleanArch.Application/CleanArch.Application.csproj",
+      "msbuildProject": "../CleanArch.Application/CleanArch.Application.csproj"
+    },
     "CleanArch.Domain/1.0.0": {
       "type": "project",
       "path": "../CleanArch.Domain/CleanArch.Domain.csproj",
@@ -3627,6 +3645,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
+      "CleanArch.Application >= 1.0.0",
       "CleanArch.Domain >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 2.2.4",
       "Microsoft.EntityFrameworkCore.Design >= 2.2.4",
@@ -3665,6 +3684,9 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
+            "C:\\Users\\dhine\\source\\repos\\CleanArch\\CleanArch.Application\\CleanArch.Application.csproj": {
+              "projectPath": "C:\\Users\\dhine\\source\\repos\\CleanArch\\CleanArch.Application\\CleanArch.Application.csproj"
+            },
             "C:\\Users\\dhine\\source\\repos\\CleanArch\\CleanArch.Domain\\CleanArch.Domain.csproj": {
               "projectPath": "C:\\Users\\dhine\\source\\repos\\CleanArch\\CleanArch.Domain\\CleanArch.Domain.csproj"
             }
