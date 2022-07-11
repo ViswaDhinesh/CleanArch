@@ -6,3 +6,10 @@ C:\Users\dhine\source\repos\CleanArch\CleanArch.Infra.IoC\obj\Debug\netcoreapp2.
 C:\Users\dhine\source\repos\CleanArch\CleanArch.Infra.IoC\obj\Debug\netcoreapp2.2\CleanArch.Infra.IoC.AssemblyInfo.cs
 C:\Users\dhine\source\repos\CleanArch\CleanArch.Infra.IoC\obj\Debug\netcoreapp2.2\CleanArch.Infra.IoC.dll
 C:\Users\dhine\source\repos\CleanArch\CleanArch.Infra.IoC\obj\Debug\netcoreapp2.2\CleanArch.Infra.IoC.pdb
+C:\Users\dhine\source\repos\CleanArch\CleanArch.Infra.IoC\bin\Debug\netcoreapp2.2\CleanArch.Application.dll
+C:\Users\dhine\source\repos\CleanArch\CleanArch.Infra.IoC\bin\Debug\netcoreapp2.2\CleanArch.Domain.dll
+C:\Users\dhine\source\repos\CleanArch\CleanArch.Infra.IoC\bin\Debug\netcoreapp2.2\CleanArch.Infra.Data.dll
+C:\Users\dhine\source\repos\CleanArch\CleanArch.Infra.IoC\bin\Debug\netcoreapp2.2\CleanArch.Application.pdb
+C:\Users\dhine\source\repos\CleanArch\CleanArch.Infra.IoC\bin\Debug\netcoreapp2.2\CleanArch.Infra.Data.pdb
+C:\Users\dhine\source\repos\CleanArch\CleanArch.Infra.IoC\bin\Debug\netcoreapp2.2\CleanArch.Domain.pdb
+C:\Users\dhine\source\repos\CleanArch\CleanArch.Infra.IoC\obj\Debug\netcoreapp2.2\CleanArch.Infra.IoC.csproj.CopyComplete

@@ -4478,6 +4478,21 @@
         "runtime": {
           "bin/placeholder/CleanArch.Infra.Data.dll": {}
         }
+      },
+      "CleanArch.Infra.IoC/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.2",
+        "dependencies": {
+          "CleanArch.Application": "1.0.0",
+          "CleanArch.Infra.Data": "1.0.0",
+          "Microsoft.Extensions.DependencyInjection": "2.2.0"
+        },
+        "compile": {
+          "bin/placeholder/CleanArch.Infra.IoC.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CleanArch.Infra.IoC.dll": {}
+        }
       }
     }
   },
@@ -12201,11 +12216,17 @@
       "type": "project",
       "path": "../CleanArch.Infra.Data/CleanArch.Infra.Data.csproj",
       "msbuildProject": "../CleanArch.Infra.Data/CleanArch.Infra.Data.csproj"
+    },
+    "CleanArch.Infra.IoC/1.0.0": {
+      "type": "project",
+      "path": "../CleanArch.Infra.IoC/CleanArch.Infra.IoC.csproj",
+      "msbuildProject": "../CleanArch.Infra.IoC/CleanArch.Infra.IoC.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
       "CleanArch.Infra.Data >= 1.0.0",
+      "CleanArch.Infra.IoC >= 1.0.0",
       "Microsoft.AspNetCore.App >= 2.2.0",
       "Microsoft.AspNetCore.Razor.Design >= 2.2.0",
       "Microsoft.NETCore.App >= 2.2.0"
@@ -12243,6 +12264,9 @@
           "projectReferences": {
             "C:\\Users\\dhine\\source\\repos\\CleanArch\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj": {
               "projectPath": "C:\\Users\\dhine\\source\\repos\\CleanArch\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj"
+            },
+            "C:\\Users\\dhine\\source\\repos\\CleanArch\\CleanArch.Infra.IoC\\CleanArch.Infra.IoC.csproj": {
+              "projectPath": "C:\\Users\\dhine\\source\\repos\\CleanArch\\CleanArch.Infra.IoC\\CleanArch.Infra.IoC.csproj"
             }
           }
         }

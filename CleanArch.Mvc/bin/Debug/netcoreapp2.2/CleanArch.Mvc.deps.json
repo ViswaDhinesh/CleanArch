@@ -25,6 +25,7 @@
       "CleanArch.Mvc/1.0.0": {
         "dependencies": {
           "CleanArch.Infra.Data": "1.0.0",
+          "CleanArch.Infra.IoC": "1.0.0",
           "Microsoft.AspNetCore.App": "2.2.0",
           "Microsoft.AspNetCore.Razor.Design": "2.2.0",
           "Microsoft.NETCore.App": "2.2.0"
@@ -195,6 +196,19 @@
         },
         "compile": {
           "CleanArch.Infra.Data.dll": {}
+        }
+      },
+      "CleanArch.Infra.IoC/1.0.0": {
+        "dependencies": {
+          "CleanArch.Application": "1.0.0",
+          "CleanArch.Infra.Data": "1.0.0",
+          "Microsoft.Extensions.DependencyInjection": "2.2.0"
+        },
+        "runtime": {
+          "CleanArch.Infra.IoC.dll": {}
+        },
+        "compile": {
+          "CleanArch.Infra.IoC.dll": {}
         }
       },
       "Microsoft.AspNet.WebApi.Client/5.2.6": {
@@ -3383,6 +3397,11 @@
       "sha512": ""
     },
     "CleanArch.Infra.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CleanArch.Infra.IoC/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
