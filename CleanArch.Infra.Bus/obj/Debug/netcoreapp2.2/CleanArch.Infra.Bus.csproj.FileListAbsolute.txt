@@ -1,0 +1,8 @@
+C:\Users\dhine\source\repos\CleanArch\CleanArch.Infra.Bus\bin\Debug\netcoreapp2.2\CleanArch.Infra.Bus.deps.json
+C:\Users\dhine\source\repos\CleanArch\CleanArch.Infra.Bus\bin\Debug\netcoreapp2.2\CleanArch.Infra.Bus.dll
+C:\Users\dhine\source\repos\CleanArch\CleanArch.Infra.Bus\bin\Debug\netcoreapp2.2\CleanArch.Infra.Bus.pdb
+C:\Users\dhine\source\repos\CleanArch\CleanArch.Infra.Bus\obj\Debug\netcoreapp2.2\CleanArch.Infra.Bus.csprojAssemblyReference.cache
+C:\Users\dhine\source\repos\CleanArch\CleanArch.Infra.Bus\obj\Debug\netcoreapp2.2\CleanArch.Infra.Bus.AssemblyInfoInputs.cache
+C:\Users\dhine\source\repos\CleanArch\CleanArch.Infra.Bus\obj\Debug\netcoreapp2.2\CleanArch.Infra.Bus.AssemblyInfo.cs
+C:\Users\dhine\source\repos\CleanArch\CleanArch.Infra.Bus\obj\Debug\netcoreapp2.2\CleanArch.Infra.Bus.dll
+C:\Users\dhine\source\repos\CleanArch\CleanArch.Infra.Bus\obj\Debug\netcoreapp2.2\CleanArch.Infra.Bus.pdb
