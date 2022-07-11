@@ -9,3 +9,5 @@ C:\Users\dhine\source\repos\CleanArch\CleanArch.Application\bin\Debug\netcoreapp
 C:\Users\dhine\source\repos\CleanArch\CleanArch.Application\bin\Debug\netcoreapp2.2\CleanArch.Domain.pdb
 C:\Users\dhine\source\repos\CleanArch\CleanArch.Application\obj\Debug\netcoreapp2.2\CleanArch.Application.csprojAssemblyReference.cache
 C:\Users\dhine\source\repos\CleanArch\CleanArch.Application\obj\Debug\netcoreapp2.2\CleanArch.Application.csproj.CopyComplete
+C:\Users\dhine\source\repos\CleanArch\CleanArch.Application\bin\Debug\netcoreapp2.2\CleanArch.Domain.Core.dll
+C:\Users\dhine\source\repos\CleanArch\CleanArch.Application\bin\Debug\netcoreapp2.2\CleanArch.Domain.Core.pdb

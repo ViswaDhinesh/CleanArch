@@ -41,3 +41,7 @@ C:\Users\dhine\source\repos\CleanArch\CleanArch.Mvc\bin\Debug\netcoreapp2.2\Clea
 C:\Users\dhine\source\repos\CleanArch\CleanArch.Mvc\bin\Debug\netcoreapp2.2\CleanArch.Infra.IoC.dll
 C:\Users\dhine\source\repos\CleanArch\CleanArch.Mvc\bin\Debug\netcoreapp2.2\CleanArch.Infra.IoC.pdb
 C:\Users\dhine\source\repos\CleanArch\CleanArch.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Course\Index.cshtml.g.cs
+C:\Users\dhine\source\repos\CleanArch\CleanArch.Mvc\bin\Debug\netcoreapp2.2\CleanArch.Domain.Core.dll
+C:\Users\dhine\source\repos\CleanArch\CleanArch.Mvc\bin\Debug\netcoreapp2.2\CleanArch.Domain.Core.pdb
+C:\Users\dhine\source\repos\CleanArch\CleanArch.Mvc\bin\Debug\netcoreapp2.2\CleanArch.Infra.Bus.dll
+C:\Users\dhine\source\repos\CleanArch\CleanArch.Mvc\bin\Debug\netcoreapp2.2\CleanArch.Infra.Bus.pdb

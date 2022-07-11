@@ -2,6 +2,15 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v2.2": {
+      "MediatR/7.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/MediatR.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/MediatR.dll": {}
+        }
+      },
       "Microsoft.AspNet.WebApi.Client/5.2.6": {
         "type": "package",
         "dependencies": {
@@ -4455,11 +4464,41 @@
       "CleanArch.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.2",
+        "dependencies": {
+          "CleanArch.Domain.Core": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/CleanArch.Domain.dll": {}
         },
         "runtime": {
           "bin/placeholder/CleanArch.Domain.dll": {}
+        }
+      },
+      "CleanArch.Domain.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.2",
+        "dependencies": {
+          "MediatR": "7.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CleanArch.Domain.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CleanArch.Domain.Core.dll": {}
+        }
+      },
+      "CleanArch.Infra.Bus/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.2",
+        "dependencies": {
+          "CleanArch.Domain.Core": "1.0.0",
+          "MediatR": "7.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CleanArch.Infra.Bus.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CleanArch.Infra.Bus.dll": {}
         }
       },
       "CleanArch.Infra.Data/1.0.0": {
@@ -4484,6 +4523,7 @@
         "framework": ".NETCoreApp,Version=v2.2",
         "dependencies": {
           "CleanArch.Application": "1.0.0",
+          "CleanArch.Infra.Bus": "1.0.0",
           "CleanArch.Infra.Data": "1.0.0",
           "Microsoft.Extensions.DependencyInjection": "2.2.0"
         },
@@ -4497,6 +4537,19 @@
     }
   },
   "libraries": {
+    "MediatR/7.0.0": {
+      "sha512": "sgfHxkBsmMlHOD564SnLqTvSbAuGlFiZfc6ybxBSI1wYV/2u+Y5TXtFoIhCISFg5/s/6aMvB338QC2JseHsjTA==",
+      "type": "package",
+      "path": "mediatr/7.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net461/MediatR.dll",
+        "lib/netstandard2.0/MediatR.dll",
+        "mediatr.7.0.0.nupkg.sha512",
+        "mediatr.nuspec"
+      ]
+    },
     "Microsoft.AspNet.WebApi.Client/5.2.6": {
       "sha512": "owAlEIUZXWSnkK8Z1c+zR47A0X6ykF4XjbPok4lQKNuciUfHLGPd6QnI+rt/8KlQ17PmF+I4S3f+m+Qe4IvViw==",
       "type": "package",
@@ -12212,6 +12265,16 @@
       "path": "../CleanArch.Domain/CleanArch.Domain.csproj",
       "msbuildProject": "../CleanArch.Domain/CleanArch.Domain.csproj"
     },
+    "CleanArch.Domain.Core/1.0.0": {
+      "type": "project",
+      "path": "../CleanArch.Domain.Core/CleanArch.Domain.Core.csproj",
+      "msbuildProject": "../CleanArch.Domain.Core/CleanArch.Domain.Core.csproj"
+    },
+    "CleanArch.Infra.Bus/1.0.0": {
+      "type": "project",
+      "path": "../CleanArch.Infra.Bus/CleanArch.Infra.Bus.csproj",
+      "msbuildProject": "../CleanArch.Infra.Bus/CleanArch.Infra.Bus.csproj"
+    },
     "CleanArch.Infra.Data/1.0.0": {
       "type": "project",
       "path": "../CleanArch.Infra.Data/CleanArch.Infra.Data.csproj",
@@ -12225,7 +12288,6 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
-      "CleanArch.Infra.Data >= 1.0.0",
       "CleanArch.Infra.IoC >= 1.0.0",
       "Microsoft.AspNetCore.App >= 2.2.0",
       "Microsoft.AspNetCore.Razor.Design >= 2.2.0",
@@ -12262,9 +12324,6 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\dhine\\source\\repos\\CleanArch\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj": {
-              "projectPath": "C:\\Users\\dhine\\source\\repos\\CleanArch\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj"
-            },
             "C:\\Users\\dhine\\source\\repos\\CleanArch\\CleanArch.Infra.IoC\\CleanArch.Infra.IoC.csproj": {
               "projectPath": "C:\\Users\\dhine\\source\\repos\\CleanArch\\CleanArch.Infra.IoC\\CleanArch.Infra.IoC.csproj"
             }

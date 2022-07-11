@@ -66,14 +66,14 @@
         }
       }
     },
-    "C:\\Users\\dhine\\source\\repos\\CleanArch\\CleanArch.Domain\\CleanArch.Domain.csproj": {
+    "C:\\Users\\dhine\\source\\repos\\CleanArch\\CleanArch.Domain.Core\\CleanArch.Domain.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dhine\\source\\repos\\CleanArch\\CleanArch.Domain\\CleanArch.Domain.csproj",
-        "projectName": "CleanArch.Domain",
-        "projectPath": "C:\\Users\\dhine\\source\\repos\\CleanArch\\CleanArch.Domain\\CleanArch.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\dhine\\source\\repos\\CleanArch\\CleanArch.Domain.Core\\CleanArch.Domain.Core.csproj",
+        "projectName": "CleanArch.Domain.Core",
+        "projectPath": "C:\\Users\\dhine\\source\\repos\\CleanArch\\CleanArch.Domain.Core\\CleanArch.Domain.Core.csproj",
         "packagesPath": "C:\\Users\\dhine\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dhine\\source\\repos\\CleanArch\\CleanArch.Domain\\obj\\",
+        "outputPath": "C:\\Users\\dhine\\source\\repos\\CleanArch\\CleanArch.Domain.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -103,6 +103,138 @@
       "frameworks": {
         "netcoreapp2.2": {
           "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\dhine\\source\\repos\\CleanArch\\CleanArch.Domain\\CleanArch.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dhine\\source\\repos\\CleanArch\\CleanArch.Domain\\CleanArch.Domain.csproj",
+        "projectName": "CleanArch.Domain",
+        "projectPath": "C:\\Users\\dhine\\source\\repos\\CleanArch\\CleanArch.Domain\\CleanArch.Domain.csproj",
+        "packagesPath": "C:\\Users\\dhine\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dhine\\source\\repos\\CleanArch\\CleanArch.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dhine\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\dhine\\source\\repos\\CleanArch\\CleanArch.Domain.Core\\CleanArch.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\dhine\\source\\repos\\CleanArch\\CleanArch.Domain.Core\\CleanArch.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\dhine\\source\\repos\\CleanArch\\CleanArch.Infra.Bus\\CleanArch.Infra.Bus.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\dhine\\source\\repos\\CleanArch\\CleanArch.Infra.Bus\\CleanArch.Infra.Bus.csproj",
+        "projectName": "CleanArch.Infra.Bus",
+        "projectPath": "C:\\Users\\dhine\\source\\repos\\CleanArch\\CleanArch.Infra.Bus\\CleanArch.Infra.Bus.csproj",
+        "packagesPath": "C:\\Users\\dhine\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dhine\\source\\repos\\CleanArch\\CleanArch.Infra.Bus\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\dhine\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\dhine\\source\\repos\\CleanArch\\CleanArch.Domain.Core\\CleanArch.Domain.Core.csproj": {
+                "projectPath": "C:\\Users\\dhine\\source\\repos\\CleanArch\\CleanArch.Domain.Core\\CleanArch.Domain.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
               "target": "Package",
@@ -236,6 +368,9 @@
               "C:\\Users\\dhine\\source\\repos\\CleanArch\\CleanArch.Application\\CleanArch.Application.csproj": {
                 "projectPath": "C:\\Users\\dhine\\source\\repos\\CleanArch\\CleanArch.Application\\CleanArch.Application.csproj"
               },
+              "C:\\Users\\dhine\\source\\repos\\CleanArch\\CleanArch.Infra.Bus\\CleanArch.Infra.Bus.csproj": {
+                "projectPath": "C:\\Users\\dhine\\source\\repos\\CleanArch\\CleanArch.Infra.Bus\\CleanArch.Infra.Bus.csproj"
+              },
               "C:\\Users\\dhine\\source\\repos\\CleanArch\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj": {
                 "projectPath": "C:\\Users\\dhine\\source\\repos\\CleanArch\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj"
               }
@@ -302,9 +437,6 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\dhine\\source\\repos\\CleanArch\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj": {
-                "projectPath": "C:\\Users\\dhine\\source\\repos\\CleanArch\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj"
-              },
               "C:\\Users\\dhine\\source\\repos\\CleanArch\\CleanArch.Infra.IoC\\CleanArch.Infra.IoC.csproj": {
                 "projectPath": "C:\\Users\\dhine\\source\\repos\\CleanArch\\CleanArch.Infra.IoC\\CleanArch.Infra.IoC.csproj"
               }

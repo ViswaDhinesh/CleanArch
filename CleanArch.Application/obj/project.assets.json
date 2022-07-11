@@ -2,6 +2,15 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v2.2": {
+      "MediatR/7.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/MediatR.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/MediatR.dll": {}
+        }
+      },
       "Microsoft.NETCore.App/2.2.0": {
         "type": "package",
         "dependencies": {
@@ -211,16 +220,45 @@
       "CleanArch.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v2.2",
+        "dependencies": {
+          "CleanArch.Domain.Core": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/CleanArch.Domain.dll": {}
         },
         "runtime": {
           "bin/placeholder/CleanArch.Domain.dll": {}
         }
+      },
+      "CleanArch.Domain.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.2",
+        "dependencies": {
+          "MediatR": "7.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CleanArch.Domain.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CleanArch.Domain.Core.dll": {}
+        }
       }
     }
   },
   "libraries": {
+    "MediatR/7.0.0": {
+      "sha512": "sgfHxkBsmMlHOD564SnLqTvSbAuGlFiZfc6ybxBSI1wYV/2u+Y5TXtFoIhCISFg5/s/6aMvB338QC2JseHsjTA==",
+      "type": "package",
+      "path": "mediatr/7.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net461/MediatR.dll",
+        "lib/netstandard2.0/MediatR.dll",
+        "mediatr.7.0.0.nupkg.sha512",
+        "mediatr.nuspec"
+      ]
+    },
     "Microsoft.NETCore.App/2.2.0": {
       "sha512": "7z5l8Jp324S8bU8+yyWeYHXUFYvKyiI5lqS1dXgTzOx1H69Qbf6df12kCKlNX45LpMfCMd4U3M6p7Rl5Zk7SLA==",
       "type": "package",
@@ -694,6 +732,11 @@
       "type": "project",
       "path": "../CleanArch.Domain/CleanArch.Domain.csproj",
       "msbuildProject": "../CleanArch.Domain/CleanArch.Domain.csproj"
+    },
+    "CleanArch.Domain.Core/1.0.0": {
+      "type": "project",
+      "path": "../CleanArch.Domain.Core/CleanArch.Domain.Core.csproj",
+      "msbuildProject": "../CleanArch.Domain.Core/CleanArch.Domain.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
