@@ -6,3 +6,6 @@ C:\Users\dhine\source\repos\CleanArch\CleanArch.Infra.Bus\obj\Debug\netcoreapp2.
 C:\Users\dhine\source\repos\CleanArch\CleanArch.Infra.Bus\obj\Debug\netcoreapp2.2\CleanArch.Infra.Bus.AssemblyInfo.cs
 C:\Users\dhine\source\repos\CleanArch\CleanArch.Infra.Bus\obj\Debug\netcoreapp2.2\CleanArch.Infra.Bus.dll
 C:\Users\dhine\source\repos\CleanArch\CleanArch.Infra.Bus\obj\Debug\netcoreapp2.2\CleanArch.Infra.Bus.pdb
+C:\Users\dhine\source\repos\CleanArch\CleanArch.Infra.Bus\bin\Debug\netcoreapp2.2\CleanArch.Domain.Core.dll
+C:\Users\dhine\source\repos\CleanArch\CleanArch.Infra.Bus\bin\Debug\netcoreapp2.2\CleanArch.Domain.Core.pdb
+C:\Users\dhine\source\repos\CleanArch\CleanArch.Infra.Bus\obj\Debug\netcoreapp2.2\CleanArch.Infra.Bus.csproj.CopyComplete
