@@ -12,7 +12,7 @@ namespace CleanArch.Domain.CommandHandler
 {
     public class CourseCommandHandler : IRequestHandler<CreateCourseCommand, bool>
     {
-        public readonly ICourseRepository _courseRepositoty;
+        private readonly ICourseRepository _courseRepositoty;
 
         public CourseCommandHandler (ICourseRepository courseRepository)
         {
