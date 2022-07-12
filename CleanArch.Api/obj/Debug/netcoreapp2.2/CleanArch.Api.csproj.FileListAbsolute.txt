@@ -14,3 +14,16 @@ C:\Users\dhine\source\repos\CleanArch\CleanArch.Api\obj\Debug\netcoreapp2.2\Clea
 C:\Users\dhine\source\repos\CleanArch\CleanArch.Api\obj\Debug\netcoreapp2.2\CleanArch.Api.RazorTargetAssemblyInfo.cache
 C:\Users\dhine\source\repos\CleanArch\CleanArch.Api\obj\Debug\netcoreapp2.2\CleanArch.Api.dll
 C:\Users\dhine\source\repos\CleanArch\CleanArch.Api\obj\Debug\netcoreapp2.2\CleanArch.Api.pdb
+C:\Users\dhine\source\repos\CleanArch\CleanArch.Api\bin\Debug\netcoreapp2.2\CleanArch.Application.dll
+C:\Users\dhine\source\repos\CleanArch\CleanArch.Api\bin\Debug\netcoreapp2.2\CleanArch.Domain.Core.dll
+C:\Users\dhine\source\repos\CleanArch\CleanArch.Api\bin\Debug\netcoreapp2.2\CleanArch.Domain.dll
+C:\Users\dhine\source\repos\CleanArch\CleanArch.Api\bin\Debug\netcoreapp2.2\CleanArch.Infra.Bus.dll
+C:\Users\dhine\source\repos\CleanArch\CleanArch.Api\bin\Debug\netcoreapp2.2\CleanArch.Infra.Data.dll
+C:\Users\dhine\source\repos\CleanArch\CleanArch.Api\bin\Debug\netcoreapp2.2\CleanArch.Infra.IoC.dll
+C:\Users\dhine\source\repos\CleanArch\CleanArch.Api\bin\Debug\netcoreapp2.2\CleanArch.Infra.IoC.pdb
+C:\Users\dhine\source\repos\CleanArch\CleanArch.Api\bin\Debug\netcoreapp2.2\CleanArch.Application.pdb
+C:\Users\dhine\source\repos\CleanArch\CleanArch.Api\bin\Debug\netcoreapp2.2\CleanArch.Domain.pdb
+C:\Users\dhine\source\repos\CleanArch\CleanArch.Api\bin\Debug\netcoreapp2.2\CleanArch.Domain.Core.pdb
+C:\Users\dhine\source\repos\CleanArch\CleanArch.Api\bin\Debug\netcoreapp2.2\CleanArch.Infra.Bus.pdb
+C:\Users\dhine\source\repos\CleanArch\CleanArch.Api\bin\Debug\netcoreapp2.2\CleanArch.Infra.Data.pdb
+C:\Users\dhine\source\repos\CleanArch\CleanArch.Api\obj\Debug\netcoreapp2.2\CleanArch.Api.csproj.CopyComplete
