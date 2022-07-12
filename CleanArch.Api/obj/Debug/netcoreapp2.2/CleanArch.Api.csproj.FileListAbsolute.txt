@@ -1,0 +1,16 @@
+C:\Users\dhine\source\repos\CleanArch\CleanArch.Api\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\dhine\source\repos\CleanArch\CleanArch.Api\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\dhine\source\repos\CleanArch\CleanArch.Api\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\dhine\source\repos\CleanArch\CleanArch.Api\bin\Debug\netcoreapp2.2\CleanArch.Api.deps.json
+C:\Users\dhine\source\repos\CleanArch\CleanArch.Api\bin\Debug\netcoreapp2.2\CleanArch.Api.runtimeconfig.json
+C:\Users\dhine\source\repos\CleanArch\CleanArch.Api\bin\Debug\netcoreapp2.2\CleanArch.Api.runtimeconfig.dev.json
+C:\Users\dhine\source\repos\CleanArch\CleanArch.Api\bin\Debug\netcoreapp2.2\CleanArch.Api.dll
+C:\Users\dhine\source\repos\CleanArch\CleanArch.Api\bin\Debug\netcoreapp2.2\CleanArch.Api.pdb
+C:\Users\dhine\source\repos\CleanArch\CleanArch.Api\obj\Debug\netcoreapp2.2\CleanArch.Api.csprojAssemblyReference.cache
+C:\Users\dhine\source\repos\CleanArch\CleanArch.Api\obj\Debug\netcoreapp2.2\CleanArch.Api.RazorAssemblyInfo.cache
+C:\Users\dhine\source\repos\CleanArch\CleanArch.Api\obj\Debug\netcoreapp2.2\CleanArch.Api.RazorAssemblyInfo.cs
+C:\Users\dhine\source\repos\CleanArch\CleanArch.Api\obj\Debug\netcoreapp2.2\CleanArch.Api.AssemblyInfoInputs.cache
+C:\Users\dhine\source\repos\CleanArch\CleanArch.Api\obj\Debug\netcoreapp2.2\CleanArch.Api.AssemblyInfo.cs
+C:\Users\dhine\source\repos\CleanArch\CleanArch.Api\obj\Debug\netcoreapp2.2\CleanArch.Api.RazorTargetAssemblyInfo.cache
+C:\Users\dhine\source\repos\CleanArch\CleanArch.Api\obj\Debug\netcoreapp2.2\CleanArch.Api.dll
+C:\Users\dhine\source\repos\CleanArch\CleanArch.Api\obj\Debug\netcoreapp2.2\CleanArch.Api.pdb
